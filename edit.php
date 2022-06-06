@@ -37,6 +37,7 @@
         </tr>
     </table>
     <div>
+        <input type="hidden" name="id" value="<?=$user['id'];?>">
         <input type="submit" value="編輯"><input type="reset" value="重置">
     </div>
 </form>
