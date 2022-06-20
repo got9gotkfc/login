@@ -1,3 +1,4 @@
+<!-- 連結會員資料庫 -->
 <?php
 $dsn="mysql:host=localhost;charset=utf8;dbname=member";
 $pdo=new PDO($dsn,'root','');
